@@ -1,7 +1,7 @@
 # Dhanunjaychowdary.github.io
-Dhanunjaya Nimmagadda
-Email: dhanun2013@gmail.com
-Phone: +1 (413) 686-3551
+###Dhanunjaya Nimmagadda
+#####Email: dhanun2013@gmail.com
+########Phone: +1 (413) 686-3551
 
 Objective:
 Enthusiastic Computer Science graduate with a strong passion for harnessing the power of data analysis and machine learning. Actively seeking an position to apply Python proficiency and statistical analysis skills in a collaborative environment. Committed to making impactful contributions, eager to elevate expertise in data analysis, statistics, and machine learning while actively contributing to real-world projects that align with company objectives.
