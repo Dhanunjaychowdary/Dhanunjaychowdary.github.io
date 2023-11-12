@@ -1,4 +1,6 @@
-
+<div style="float: left; margin-right: 20px;">
+  <img src="https://github.com/Dhanunjaychowdary/Dhanunjaychowdary.github.io/blob/main/IMG_0953.JPG" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
 # Dhanunjaya Nimmagadda
 ## Data Analyst
 
