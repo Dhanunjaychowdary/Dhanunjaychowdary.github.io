@@ -1,7 +1,5 @@
-# Dhanunjaychowdary.github.io
-# Dhanunjaya Nimmagadda
 
-[View My GitHub Profile](https://github.com/Dhanunjaychowdary)
+# Dhanunjaya Nimmagadda
 
 [Visit My Portfolio Website](https://Dhanunjaychowdary.github.io)
 
