@@ -1,5 +1,6 @@
 
 # Dhanunjaya Nimmagadda
+## Data Analyst
 
 [Visit My Portfolio Website](https://Dhanunjaychowdary.github.io)
 
