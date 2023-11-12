@@ -1,15 +1,18 @@
 # Dhanunjaychowdary.github.io
-# Dhanunjaya Nimmagadda Resume
+# Dhanunjaya Nimmagadda
+
+[View My GitHub Profile](https://github.com/Dhanunjaychowdary)
+
+[Visit My Portfolio Website](https://Dhanunjaychowdary.github.io)
 
 ## Contact Information:
 - **Email:** dhanun2013@gmail.com
 - **Phone:** +1 (413) 686-3551
 
 ## Objective:
-Enthusiastic Computer Science graduate actively seeking a position to apply Python proficiency and statistical analysis skills in a collaborative environment. Committed to making impactful contributions, eager to elevate expertise in data analysis, statistics, and machine learning while actively contributing to real-world projects that align with company objectives.
+Enthusiastic Computer Science graduate with a strong passion for harnessing the power of data analysis and machine learning. Actively seeking a position to apply Python proficiency and statistical analysis skills in a collaborative environment. Committed to making impactful contributions, eager to elevate expertise in data analysis, statistics, and machine learning while actively contributing to real-world projects that align with company objectives.
 
 ## Technical Skills:
-
 ### Programming Languages:
 - Proficient in Python for data analysis, statistical modeling, and machine learning.
 - SQL for querying and managing databases.
@@ -53,10 +56,13 @@ Enthusiastic Computer Science graduate actively seeking a position to apply Pyth
 - Adherence to Data Privacy and Ethics
 
 ## Work Experience (Intern):
-**BITMILLER TECH - Data Analyst Intern**
-- Conducted comprehensive exploratory data analysis on user interactions within web applications, utilizing Python and HTML.
-- Executed the end-to-end data pipeline: extracting, cleaning, and transforming data for actionable insights.
-- Collaborated seamlessly with cross-functional teams to integrate data-driven solutions into web development projects, enhancing overall project outcomes.
+**Company: BITMILLER TECH**
+**Designation: Data Analyst Intern**
+
+**Key Achievements:**
+- Conducted comprehensive exploratory data analysis on user interactions within web applications, utilizing Python and HTML to uncover valuable insights.
+- Executed the end-to-end data pipeline: extracting, cleaning, and transforming data to derive actionable insights for informed decision-making.
+- Collaborated seamlessly with cross-functional teams to seamlessly integrate data-driven solutions into web development projects, enhancing overall project outcomes.
 - Played a pivotal role in implementing effective data visualization tools, contributing to a profound understanding of application usage patterns among stakeholders.
 
 ## Online Doctor Appointment System (PROJECT):
@@ -81,7 +87,7 @@ Enthusiastic Computer Science graduate actively seeking a position to apply Pyth
 - Spearheaded the development and implementation of a robust predictive model in Python, strategically designed to forecast intricate sales trends based on extensive historical data.
 - Precision through Advanced Analytics: Applied sophisticated statistical analysis and cutting-edge machine learning techniques to elevate the accuracy and predictive capabilities of the model, ensuring precision in sales projections.
 - Dynamic Data Visualization with Matplotlib: Employed Matplotlib to craft visually compelling and comprehensive data representations, such as intuitive charts and graphs. Effectively communicated complex trends, contributing to a deeper understanding of sales dynamics.
-- Exemplary Accuracy Achievement: Delivered exceptional results by achieving an outstanding 93% accuracy rate in predicting sales trends. Surpassing industry benchmarks, this accomplishment underscores the model's reliability and its potential to drive informed decision-making.
+- Exemplary Accuracy Achievement: Delivered exceptional results by achieving an outstanding 93% accuracy rate in predicting sales trends. Surpassing industry benchmarks, this accomplishment underscores the model’s reliability and its potential to drive informed decision-making.
 
 ### Customer Segmentation using Clustering Algorithms
 
@@ -102,8 +108,8 @@ Enthusiastic Computer Science graduate actively seeking a position to apply Pyth
 ### Stock Market Performance Analysis, Rental Home Price Prediction
 
 - Algorithmic Analysis and Comparison: Employed supervised learning algorithms from scikit-learn, including Decision Trees, Neural Networks, Boosting, Support Vector Machines, and KNN for stock market performance analysis and rental home price prediction.
-- Versatile Skill Set: Analyzed and compared various algorithms, demonstrating a deep understanding of their strengths and limitations.
-- Unsupervised Learning and Advanced Techniques: Applied unsupervised learning techniques, dimensionality reduction, and Markov's Decision Processes, showcasing versatility in data analysis methodologies.
+- Versatile Skill Set: Analysed and compared various algorithms, demonstrating a deep understanding of their strengths and limitations.
+- Unsupervised Learning and Advanced Techniques: Applied unsupervised learning techniques, dimensionality reduction, and Markov’s Decision Processes, showcasing versatility in data analysis methodologies.
 
 ### Sentiment Analysis on Social Media Data
 
@@ -125,8 +131,8 @@ Enthusiastic Computer Science graduate actively seeking a position to apply Pyth
 
 ## Education:
 
-- Master's in Information Sciences - Trine University, DT, USA (Currently Pursuing)
-- Bachelor's in Computer Science - KL University, Vijayawada, India
+- Master’s in Information Sciences - Trine University, DT, USA (Currently Pursuing)
+- Bachelor’s in Computer Science - KL University, Vijayawada, India
 
 ## REFERENCES:
 
