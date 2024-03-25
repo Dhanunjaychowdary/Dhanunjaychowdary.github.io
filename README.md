@@ -53,9 +53,9 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 - Versatility in Tools (Jupyter, R)
 - Adherence to Data Privacy and Ethics
 
-## Work Experience (Intern):
+## Work Experience:
 **Company: BITMILLER TECH**
-**Designation: Data Analyst Intern**
+**Designation: Software Developer **
 
 **Key Achievements:**
 - Conducted comprehensive exploratory data analysis on user interactions within web applications, utilizing Python and HTML to uncover valuable insights.
