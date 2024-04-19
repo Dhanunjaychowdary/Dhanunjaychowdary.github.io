@@ -8,11 +8,11 @@
 - **Phone:** +1 (413) 686-3551
 
 ## Objective:
-Enthusiastic Computer Science graduate with a strong passion for harnessing the power of data analysis and machine learning. Actively seeking a position to apply Python proficiency and statistical analysis skills in a collaborative environment. Committed to making impactful contributions, eager to elevate expertise in data analysis, statistics, and machine learning while actively contributing to real-world projects that align with company objectives.
+Enthusiastic Computer Science graduate with a strong passion for harnessing the power of data analysis and machine learning. Actively seeking a position to apply Python proficiency and statistical analysis skills in a collaborative environment. Committed to making impactful contributions, eager to elevate expertise in data analysis, statistics and machine learning while actively contributing to real-world projects that align with company objectives.
 
 ## Technical Skills:
 ### Programming Languages:
-- Proficient in Python for data analysis, statistical modeling, and machine learning.
+- Proficient in Python for data analysis, statistical modeling and machine learning.
 - SQL for querying and managing databases.
 - HTML for web scraping and enhancing data presentation.
 
@@ -26,7 +26,7 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 - Extensive knowledge of SQL, MySQL, and NoSQL for efficient database management.
 
 ### Development and Design:
-- Swift-UI (Xcode) for designing and implementing user interfaces.
+- Swift-UI (Xcode) for designing and implementing IOS user interfaces.
 
 ### Version Control and Development Environments:
 - Git for version control.
@@ -54,14 +54,27 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 - Adherence to Data Privacy and Ethics
 
 ## Work Experience:
+**Company: Accenture Pvt Ltd 
+**Designation: Data Analyst
+**Key Achievements:
+Ø Proficient in data cleaning, pre-processing ,validation and Visualization procedures.
+Ø Expert in Identifying the required data for accurate predictions by using Python, R and Excel.
+Ø Designed interactive dashboards using Power BI and Tableau, along with automated reporting in PowerBI, and
+also reports for SaaS solutions.
+Ø Implemented ETL processes to the warehouse and conducted EDA for Inventory and Sales.
+Ø Trained Machine Learning Models by different Algorithms for efficient Predictions Eg; Conducted statistical, regression
+analysis & hypothesis testing, tracked performance metrics, reduced error rates by 23%.
+Ø Presentations given to clients to elaborate Dashboards for decision making and Teams for achieving the Client Goals.
+Ø Awarded for meeting project before deadlines which led to positive client feedback and a chance for further projects.
+
 **Company: BITMILLER TECH**
 **Designation: Software Developer **
-
 **Key Achievements:**
 - Conducted comprehensive exploratory data analysis on user interactions within web applications, utilizing Python and HTML to uncover valuable insights.
-- Executed the end-to-end data pipeline: extracting, cleaning, and transforming data to derive actionable insights for informed decision-making.
-- Collaborated seamlessly with cross-functional teams to seamlessly integrate data-driven solutions into web development projects, enhancing overall project outcomes.
-- Played a pivotal role in implementing effective data visualization tools, contributing to a profound understanding of application usage patterns among stakeholders.
+- Designed and developed a Web Application User Interface for Healthcare client by Using HTML and Mobile
+Application User Interfaces for IOS by SWIFTUI (Xcode).
+- Collaborated with cross-functional team for code optimization which lead to a 20% improvement in Run-Time.
+- Knowledge with cloud platforms like AWS for configuration and maintenance.
 
 ## Online Doctor Appointment System (PROJECT):
 
@@ -121,7 +134,7 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 - Six Sigma Yellow Belt
 - DevOps Practitioner Training
 - CompTIA Security+ Training Program
-- NRC Robotics Workshop
+- NRC Robotics Workshop - 1st rank All over India 2016.
 
 ## Hobbies:
 
@@ -130,7 +143,7 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 ## Education:
 
 - Master’s in Information Sciences - Trine University, DT, USA (Currently Pursuing)
-- Bachelor’s in Computer Science - KL University, Vijayawada, India
+- Bachelor’s in Computer Science - SRM University, Vijayawada, India
 
 ## REFERENCES:
 
