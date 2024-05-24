@@ -54,8 +54,8 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 - Adherence to Data Privacy and Ethics
 
 ## Work Experience:
-**Company: BitMiller Tech**
-**Designation: Software Engineer**
+**Company: BitMiller Tech :**
+**Designation: Software Engineer :**
 Key Achievements:
  Designed and developed a web application of online doctor appointment system and low-latency trading engine in Python
 and C++, resulting in a 30% improvement in order processing times, also RESTful APIs for seamless integration
