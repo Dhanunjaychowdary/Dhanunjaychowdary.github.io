@@ -54,19 +54,20 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 - Adherence to Data Privacy and Ethics
 
 ## Work Experience:
-**Company: BitMiller Tech :**
-**Designation: Software Engineer :**
-Key Achievements:
- Designed and developed a web application of online doctor appointment system and low-latency trading engine in Python
-and C++, resulting in a 30% improvement in order processing times, also RESTful APIs for seamless integration
- Worked Development on Mobile App’s Interfaces for IOS by SWIFTUI (Xcode) and Android.NET,Python(Flask).
-Collaborated with cross-functional teams for troubleshooting and resolved production issues, minimizing runtime to < 1%.
- codebase optimization, leading to a 20% improvement in application performance and response time., resulting in a 40%
-reduction in bugs, involved in Agile development processes
-Conducted statistical, regression analysis & hypothesis testing, tracked performance metrics, reduced error rates by 23%.
-Proficient in web scraping using libraries like BeautifulSoup, PyQuery and Scrapy to automate data collection processes.
-Improved SQL script performance by pre-staging data, writing distributed queries and reporting outcomes saved 48 hours.
-Awarded for meeting project before deadlines, Positive client feedback and a chance for further projects.
+## BitMiller Tech
+### Software Engineer
+
+**Key Achievements:**
+
+- **Designed and developed** a web application for an online doctor appointment system and a low-latency trading engine in Python and C++, resulting in a 30% improvement in order processing times. Also developed RESTful APIs for seamless integration.
+- **Worked on the development** of mobile app interfaces for iOS using SWIFTUI (Xcode) and Android using .NET and Python (Flask).
+- **Collaborated with cross-functional teams** to troubleshoot and resolve production issues, minimizing runtime to less than 1%.
+- **Optimized the codebase**, leading to a 20% improvement in application performance and response time, and a 40% reduction in bugs. Involved in Agile development processes.
+- **Conducted statistical and regression analysis** and hypothesis testing. Tracked performance metrics, reducing error rates by 23%.
+- **Proficient in web scraping** using libraries like BeautifulSoup, PyQuery, and Scrapy to automate data collection processes.
+- **Improved SQL script performance** by pre-staging data, writing distributed queries, and reporting outcomes, saving 48 hours.
+- **Awarded for** meeting project deadlines, receiving positive client feedback, and securing further project opportunities.
+
 
 ## Online Doctor Appointment System (PROJECT):
 
