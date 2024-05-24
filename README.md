@@ -1,7 +1,7 @@
 # Dhanunjaya Nimmagadda
 ## software developer
 
-[Visit My Portfolio Website](https://Dhanunjaychowdary.github.io)
+[Visit My Portfolio Website](https://dhanunjaychowdary.github.io/jay/)
 
 ## Contact Information:
 - **Email:** dhanun2013@gmail.com
