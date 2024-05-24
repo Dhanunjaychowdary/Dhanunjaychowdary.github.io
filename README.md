@@ -54,27 +54,19 @@ Enthusiastic Computer Science graduate with a strong passion for harnessing the 
 - Adherence to Data Privacy and Ethics
 
 ## Work Experience:
-**Company: Accenture Pvt Ltd 
-**Designation: Data Analyst
-**Key Achievements:
-Ø Proficient in data cleaning, pre-processing ,validation and Visualization procedures.
-Ø Expert in Identifying the required data for accurate predictions by using Python, R and Excel.
-Ø Designed interactive dashboards using Power BI and Tableau, along with automated reporting in PowerBI, and
-also reports for SaaS solutions.
-Ø Implemented ETL processes to the warehouse and conducted EDA for Inventory and Sales.
-Ø Trained Machine Learning Models by different Algorithms for efficient Predictions Eg; Conducted statistical, regression
-analysis & hypothesis testing, tracked performance metrics, reduced error rates by 23%.
-Ø Presentations given to clients to elaborate Dashboards for decision making and Teams for achieving the Client Goals.
-Ø Awarded for meeting project before deadlines which led to positive client feedback and a chance for further projects.
-
-**Company: BITMILLER TECH**
-**Designation: Software Developer **
-**Key Achievements:**
-- Conducted comprehensive exploratory data analysis on user interactions within web applications, utilizing Python and HTML to uncover valuable insights.
-- Designed and developed a Web Application User Interface for Healthcare client by Using HTML and Mobile
-Application User Interfaces for IOS by SWIFTUI (Xcode).
-- Collaborated with cross-functional team for code optimization which lead to a 20% improvement in Run-Time.
-- Knowledge with cloud platforms like AWS for configuration and maintenance.
+**Company: BitMiller Tech**
+**Designation: Software Engineer**
+Key Achievements:
+ Designed and developed a web application of online doctor appointment system and low-latency trading engine in Python
+and C++, resulting in a 30% improvement in order processing times, also RESTful APIs for seamless integration
+ Worked Development on Mobile App’s Interfaces for IOS by SWIFTUI (Xcode) and Android.NET,Python(Flask).
+Collaborated with cross-functional teams for troubleshooting and resolved production issues, minimizing runtime to < 1%.
+ codebase optimization, leading to a 20% improvement in application performance and response time., resulting in a 40%
+reduction in bugs, involved in Agile development processes
+Conducted statistical, regression analysis & hypothesis testing, tracked performance metrics, reduced error rates by 23%.
+Proficient in web scraping using libraries like BeautifulSoup, PyQuery and Scrapy to automate data collection processes.
+Improved SQL script performance by pre-staging data, writing distributed queries and reporting outcomes saved 48 hours.
+Awarded for meeting project before deadlines, Positive client feedback and a chance for further projects.
 
 ## Online Doctor Appointment System (PROJECT):
 
